@@ -1,3 +1,5 @@
+![Screenshot_2023-07-17_10-26-02](https://github.com/muslimfrompk/JUST-DO-IT-encoder-decoder/assets/138281264/4363d394-0b03-4551-9c45-af23aef96374)
+
 # JUST-DO-IT-encoder-decoder
 
 # Introduction:
