@@ -29,7 +29,7 @@ def get_option():
         exit(0)
     else:
         print(colored("Enter a valid option","red"))
-        get_option()
+        main()
 def get_value():
     value=str(input(colored("Enter the value you want to Encode/Decode:","blue")))
     return value
