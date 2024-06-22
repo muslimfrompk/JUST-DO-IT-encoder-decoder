@@ -45,5 +45,5 @@ or if you has python3 installed it is recommended to run the following command f
 
     `python3 just-do-it.py`
 
-# Contribution
+# Contributions
 If you encounter any issues using this program or have ideas to improve it, please open an issue, and we will respond as soon as possible OR if you want to contribute to its development by adding new features/improvements, feel free to open a pull request. We can discuss it and hopefully merge it. Lastly, if you'd like to contribute to this project but cannot assist with the above, sharing this tool with your colleagues, friends, and family would also be a significant contribution, helping make this tool more useful.
